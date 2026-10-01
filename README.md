@@ -182,8 +182,3 @@ The frontend will launch at: **`http://localhost:5173`**
 
 ---
 
-## 🧪 Internship Project Presentation Tips
-- **Demo Account**: Click the **"Fill Demo Credentials"** button on the login screen to demonstrate instant access.
-- **Show CRUD & Interactivity**: Create a task with `High Priority` and a due date of tomorrow, then demonstrate filtering by `High Priority` and searching by keyword.
-- **Show Analytics**: Notice how the **Academic Productivity Meter** and **Stat Cards** update dynamically as tasks are checked off.
-- **Show Responsiveness**: Open Browser Developer Tools (`F12`) and switch to Mobile View to demonstrate the fluid responsive design.
